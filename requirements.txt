@@ -1,0 +1,18 @@
+## requirements.txt
+
+```text
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+PyPDF2
+reportlab
+faker
+PyPDF2
+openai
+requests
+streamlit_authenticator
+
+```
+
